@@ -3,11 +3,7 @@ Here you can find all builds of the game I am making in my free time. This start
 ## How to get the game
 In order do get the game and have opportunity to play it yourself you have to follow steps shown below:
 
-1. Go to **Releases** and download newest avaiable version\
-[Insert Gif how to download the game]
-
-2. Unpack .zip file using **7zip** or **winRAR**\
-[Insert Gif how to unpack the file]
-
-3. Run **Battle of Elbing.exe** and have fun playing/testing it!\
-[Insert Gif showing oppening of the file]
+1. Go to **Releases** and download newest avaiable version
+<img src="https://github.com/PolskiPolakPL/Battle-of-Elbing-Build/blob/PolskiPolakPL-README/gifs/How%20to%20download%20720p25fps.gif" width=640 height=360>\
+2. Unpack .zip file using **7zip** or **winRAR**
+3. Run **Battle of Elbing.exe** and have fun playing/testing it!
